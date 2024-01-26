@@ -1,0 +1,19 @@
+﻿
+# Steam++ Start
+127.0.0.1 steam-chat.com
+127.0.0.1 steamcdn-a.akamaihd.net
+127.0.0.1 cdn.akamai.steamstatic.com
+127.0.0.1 community.akamai.steamstatic.com
+127.0.0.1 avatars.akamai.steamstatic.com
+127.0.0.1 community.steamstatic.com
+127.0.0.1 store.akamai.steamstatic.com
+127.0.0.1 media.steampowered.com
+127.0.0.1 steamcommunity.com
+127.0.0.1 www.steamcommunity.com
+127.0.0.1 store.steampowered.com
+127.0.0.1 api.steampowered.com
+127.0.0.1 help.steampowered.com
+127.0.0.1 login.steampowered.com
+127.0.0.1 checkout.steampowered.com
+127.0.0.1 local.steampp.net
+# Steam++ End
