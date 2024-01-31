@@ -105,6 +105,7 @@ def forge():
     db.session.commit()
     click.echo('Done.')
 
+"""到这了"""
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
