@@ -40,7 +40,7 @@ def forge():
     """if drop: #判断是否输入了选项
         db.drop_all()"""
     db.create_all()
-    name = 'Grey Li'
+    name = 'Rop_god'
     movies = [
         {'title': 'My Neighbor Totoro', 'year': '1988'},
         {'title': 'Dead Poets Society', 'year': '1989'},
